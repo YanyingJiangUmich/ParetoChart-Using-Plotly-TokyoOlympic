@@ -1,1 +1,1 @@
-# Plotly_TokyoOlympic_Medal_Count
+# Plotly Tutorial on Tokyo 2020 Olympic Medal Count
